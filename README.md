@@ -1,5 +1,14 @@
 # RoadDamageDetector
 
+# Road Damage Dataset 2018 + Extra work done By (WALEED AL DALHAM & ABDULAZIZ WALI) 
+ABDULAZIZ WALI (https://github.com/ezzowali/)
+
+
+So we have used the same dataset but in testing we have add some pictures from the Kingdom Of Saudi Arabia and we have adjusted the source code to work with our pictures. 
+ 
+some pictures the model was able to detect the damage on it and some of it did not detect it and it gose back to the quality of our pictures. 
+
+you can find the pictures back in my repository. 
 ********
 
 # News
@@ -159,14 +168,6 @@ Please pay attention to the disk capacity when downloading.
 
 - [RoadDamageDataset_v1 (1.7GB)](https://mycityreport.s3-ap-northeast-1.amazonaws.com/02_RoadDamageDataset/public_data/Japan/CACAIE2018/RoadDamageDataset.tar.gz)
 
-
-# Road Damage Dataset 2018 + Extra work done 
-
-So we have used the same dataset but in testing we have add some pictures from the Kingdom Of Saudi Arabia and we have adjusted the source code to work with our pictures. 
- 
-some pictures the model was able to detect the damage on it and some of it did not detect it and it gose back to the quality of our pictures. 
-
-you can find the pictures back in my repository. 
 
 
 ## Dataset Tutorial
